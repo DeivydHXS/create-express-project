@@ -1,0 +1,14 @@
+{
+  "name": "create-express-project",
+  "version": "1.0.0",
+  "main": "./lib/index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "preferGlobal": true,
+  "bin": {
+    "create-express-project": "./bin/demo-global.js"
+  }
+}
